@@ -6,7 +6,7 @@
           "apellido": "Pérez",
           "email": "juan.perez@example.com",
           "telefono": "+5491122334455",
-          "foto": "https://example.com/fotos/juan_perez.jpg",
+          "foto": "./img/users/juan_perez.png",
           "ciudad": "Buenos Aires",
           "edad": 30,
           "pais": "Argentina"
@@ -17,7 +17,7 @@
           "apellido": "García",
           "email": "maria.garcia@example.com",
           "telefono": "+5511987654321",
-          "foto": "https://example.com/fotos/maria_garcia.jpg",
+          "foto": "./img/users/maria_garcia.png",
           "ciudad": "São Paulo",
           "edad": 25,
           "pais": "Argentina"
@@ -28,7 +28,7 @@
           "apellido": "Rodríguez",
           "email": "ana.rodriguez@example.com",
           "telefono": "+346543219876",
-          "foto": "https://example.com/fotos/ana_rodriguez.jpg",
+          "foto": "/img/users/ana_rodriguez.png",
           "ciudad": "Madrid",
           "edad": 32,
           "pais": "España"
@@ -39,7 +39,7 @@
           "apellido": "López",
           "email": "carlos.lopez@example.com",
           "telefono": "+12125551212",
-          "foto": "https://example.com/fotos/carlos_lopez.jpg",
+          "foto": "./img/users/carlos_lopez.png",
           "ciudad": "New York",
           "edad": 28,
           "pais": "Estados Unidos"
@@ -50,7 +50,7 @@
           "apellido": "Martínez",
           "email": "sofia.martinez@example.com",
           "telefono": "+33123456789",
-          "foto": "https://example.com/fotos/sofia_martinez.jpg",
+          "foto": "./img/users/sofia_martinez.png",
           "ciudad": "París",
           "edad": 27,
           "pais": "España"
@@ -61,7 +61,7 @@
           "apellido": "Hernández",
           "email": "pedro.hernandez@example.com",
           "telefono": "+447777888999",
-          "foto": "https://example.com/fotos/pedro_hernandez.jpg",
+          "foto": "./img/users/pedro_hernandez.png",
           "ciudad": "Londres",
           "edad": 35,
           "pais": "Japón"
@@ -72,7 +72,7 @@
           "apellido": "González",
           "email": "laura.gonzalez@example.com",
           "telefono": "+61412345678",
-          "foto": "https://example.com/fotos/laura_gonzalez.jpg",
+          "foto": "./img/users/laura_gonzalez.png",
           "ciudad": "Sídney",
           "edad": 29,
           "pais": "México"
@@ -83,7 +83,7 @@
           "apellido": "Romero",
           "email": "diego.romero@example.com",
           "telefono": "+819012345678",
-          "foto": "https://example.com/fotos/diego_romero.jpg",
+          "foto": "./img/users/diego_romero.png",
           "ciudad": "Tokio",
           "edad": 31,
           "pais": "Japón"
@@ -94,7 +94,7 @@
           "apellido": "Castro",
           "email": "valentina.castro@example.com",
           "telefono": "+525555555555",
-          "foto": "https://example.com/fotos/valentina_castro.jpg",
+          "foto": "./img/users/valentina_castro.png",
           "ciudad": "Ciudad de México",
           "edad": 26,
           "pais": "México"
@@ -105,7 +105,7 @@
           "apellido": "Sánchez",
           "email": "martin.sanchez@example.com",
           "telefono": "+491761234567",
-          "foto": "https://example.com/fotos/martin_sanchez.jpg",
+          "foto": "./img/users/martin_sanchez.png",
           "ciudad": "Berlín",
           "edad": 33,
           "pais": "Estados Unidos"

@@ -5,7 +5,7 @@ let usuarios = [
       apellido: "Pérez",
       email: "juan.perez@example.com",
       telefono: "+5491122334455",
-      foto: "https://example.com/fotos/juan_perez.jpg",
+      foto: "../img/users/juan_perez.png",
       ciudad: "Buenos Aires",
       edad: 30,
       pais: "Argentina"
@@ -16,8 +16,8 @@ let usuarios = [
       apellido: "García",
       email: "maria.garcia@example.com",
       telefono: "+5511987654321",
-      foto: "https://example.com/fotos/maria_garcia.jpg",
-      ciudad: "São Paulo",
+      foto: "../img/users/maria_garcia.png",
+      ciudad: "San Luis",
       edad: 25,
       pais: "Argentina"
     },
@@ -27,8 +27,8 @@ let usuarios = [
       apellido: "Rodríguez",
       email: "ana.rodriguez@example.com",
       telefono: "+346543219876",
-      foto: "https://example.com/fotos/ana_rodriguez.jpg",
-      ciudad: "Madrid",
+      foto: "../img/users/ana_rodriguez.png",
+      ciudad: "barcelona",
       edad: 32,
       pais: "España"
     },
@@ -38,8 +38,8 @@ let usuarios = [
       apellido: "López",
       email: "carlos.lopez@example.com",
       telefono: "+12125551212",
-      foto: "https://example.com/fotos/carlos_lopez.jpg",
-      ciudad: "New York",
+      foto: "../img/users/carlos_lopez.png",
+      ciudad: "California",
       edad: 28,
       pais: "Estados Unidos"
     },
@@ -49,8 +49,8 @@ let usuarios = [
       apellido: "Martínez",
       email: "sofia.martinez@example.com",
       telefono: "+33123456789",
-      foto: "https://example.com/fotos/sofia_martinez.jpg",
-      ciudad: "París",
+      foto: "../img/users/sofia_martinez.png",
+      ciudad: "Madrid",
       edad: 27,
       pais: "España"
     },
@@ -60,8 +60,8 @@ let usuarios = [
       apellido: "Hernández",
       email: "pedro.hernandez@example.com",
       telefono: "+447777888999",
-      foto: "https://example.com/fotos/pedro_hernandez.jpg",
-      ciudad: "Londres",
+      foto: "../img/users/pedro_hernandez.png",
+      ciudad: "Tokio",
       edad: 35,
       pais: "Japón"
     },
@@ -71,8 +71,8 @@ let usuarios = [
       apellido: "González",
       email: "laura.gonzalez@example.com",
       telefono: "+61412345678",
-      foto: "https://example.com/fotos/laura_gonzalez.jpg",
-      ciudad: "Sídney",
+      foto: "../img/users/laura_gonzalez.png",
+      ciudad: "Guadalajara",
       edad: 29,
       pais: "México"
     },
@@ -82,7 +82,7 @@ let usuarios = [
       apellido: "Romero",
       email: "diego.romero@example.com",
       telefono: "+819012345678",
-      foto: "https://example.com/fotos/diego_romero.jpg",
+      foto: "../img/users/diego_romero.png",
       ciudad: "Tokio",
       edad: 31,
       pais: "Japón"
@@ -93,7 +93,7 @@ let usuarios = [
       apellido: "Castro",
       email: "valentina.castro@example.com",
       telefono: "+525555555555",
-      foto: "https://example.com/fotos/valentina_castro.jpg",
+      foto: "../img/users/valentina_castro.png",
       ciudad: "Ciudad de México",
       edad: 26,
       pais: "México"
@@ -104,8 +104,8 @@ let usuarios = [
       apellido: "Sánchez",
       email: "martin.sanchez@example.com",
       telefono: "+491761234567",
-      foto: "https://example.com/fotos/martin_sanchez.jpg",
-      ciudad: "Berlín",
+      foto: "../img/users/martin_sanchez.png",
+      ciudad: "New York",
       edad: 33,
       pais: "Estados Unidos"
     }
