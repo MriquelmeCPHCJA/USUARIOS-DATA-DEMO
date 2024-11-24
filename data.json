@@ -1,5 +1,4 @@
-{
-    "usuarios" : [
+[
         {
           "id": 1,
           "nombre": "Juan",
@@ -110,5 +109,4 @@
           "edad": 33,
           "pais": "Estados Unidos"
         }
-      ]      
-}
+ ]      
